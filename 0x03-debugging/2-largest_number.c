@@ -24,7 +24,7 @@ int largest_ number(int a, int b, int c)
 	else
 	{
 		if (b < c)
-			largesrt = c;
+			largest = c;
 		else
 			largest = b;
 	}
