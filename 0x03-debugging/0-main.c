@@ -9,7 +9,7 @@ int positive_or_negative(void)
 	int i;
 
 	i = 0;
-	positive_ or_negative(i);
+	positive_or_negative(i);
 
 	return (0);
 }
